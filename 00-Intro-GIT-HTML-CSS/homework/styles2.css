@@ -1,0 +1,13 @@
+#divtitulo{
+    width: 500px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+}
+h1{
+    color: blue;
+}
+img{
+    width: 300px;
+}
